@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74586928856",
+    "firebase_url": "https://shopping-63547.firebaseio.com",
+    "project_id": "shopping-63547",
+    "storage_bucket": "shopping-63547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74586928856:android:a6cf01c3d541f6eb",
+        "android_client_info": {
+          "package_name": "com.kawal.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74586928856-s4sd17n2fsumekai67uas7lte6r7vcvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYO4MLf-bUf4-lcrGQwDK4uY0mqWFQSoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74586928856-s4sd17n2fsumekai67uas7lte6r7vcvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
